@@ -1,2 +1,2 @@
-# main_projects
+# practicum_projects
 Yandex Practicum files
